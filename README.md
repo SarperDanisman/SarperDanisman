@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarper Fuat Danışman
 
-<!--
-**SarperDanisman/SarperDanisman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student @ Hasan Kalyoncu University**  
+💻 Currently learning **Python & C++**  
+🚀 Improving my problem-solving skills and working on small projects  
+📌 Building a strong foundation in algorithms, data structures, and software development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Python  
+- C++  
+- Git & GitHub  
+- VS Code  
+- Linux (beginner)  
+
+---
+
+## 📈 GitHub Stats
+![Sarper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SarperDanisman&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarperDanisman&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📫 Contact
+📩 **LinkedIn:** [Sarper Fuat Danışman](https://www.linkedin.com/in/sarper-fuat-danişman-445ba3342/)  
+📧 **Email:** z.fuat27@hotmail.com
+
+---
+
+⭐ *Thanks for visiting my profile!*
